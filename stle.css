@@ -1,0 +1,13 @@
+#header{
+	height:800px;
+	width:70%;
+	
+	margin-left:15%;
+	border:5px solid;
+	 border-radius: 10px;
+	 margin-top:1%;
+	 -webkit-box-shadow: -3px -5px 82px 40px rgba(0,0,0,.6);
+-moz-box-shadow: -3px -5px 82px 40px rgba(0,0,0,.6);
+box-shadow: -3px -5px 82px 40px rgba(0,0,0,.6);
+
+}
